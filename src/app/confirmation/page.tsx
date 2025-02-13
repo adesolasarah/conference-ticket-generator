@@ -2,7 +2,6 @@
 
 import { useRouter } from 'next/navigation';
 import { useEffect } from 'react';
-import { TicketConfirmation } from '@/components/ticket-confirmation';
 import { useBooking } from '@/context/BookingContext';
 import EventTicket from '@/components/event-ticket';
 
